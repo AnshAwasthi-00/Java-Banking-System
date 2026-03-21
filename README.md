@@ -22,7 +22,6 @@ A console-based banking system built using Java with password-based authenticati
 - Ensures basic security for user accounts
 
 ## Concepts Used
-## Concepts Used
 - Encapsulation
 - Object-Oriented Programming
 - Collections (ArrayList)
