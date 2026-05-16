@@ -28,9 +28,3 @@ A console-based banking system built using Java with password-based authenticati
 - Switch-case
 - Input validation
 - Basic Authentication System
-
-- ## 🚀 Future Improvements
-- GUI using Java Swing
-- Database integration using MySQL (JDBC)
-- Transaction history
-- Money transfer between accounts
